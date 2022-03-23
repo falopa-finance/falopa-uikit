@@ -123,21 +123,12 @@ export const socials = [
         label: "English",
         href: "https://t.me/+DUnjwPKyUHZhNzYx",
       },
-      {
-        label: "English",
-        href: "https://t.me/+DUnjwPKyUHZhNzYx",
-      },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
     href: "https://twitter.com/falopafinance",
-  },
-  {
-    label: "Telegram",
-    icon: "TelegramIcon",
-    href: "https://www.reddit.com/r/GooseFinanceofficial",
   },
 ];
 

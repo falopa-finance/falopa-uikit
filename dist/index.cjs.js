@@ -1888,7 +1888,7 @@ var Icon$P = function (props) {
 var Logo = function (_a) {
     var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 205 26" }, props),
-        React__default['default'].createElement("image", { width: "205", height: "26", href: isDark ? '/images/cow/logo-header-darkmode.png' : '/images/cow/logo-header-lightmode.png' })));
+        React__default['default'].createElement("image", { width: "205", height: "26", href: isDark ? "/images/cow/logo-header-darkmode.png" : "/images/cow/logo-header-lightmode.png" })));
 };
 
 var Icon$Q = function (props) {
@@ -2231,21 +2231,12 @@ var socials = [
                 label: "English",
                 href: "https://t.me/+DUnjwPKyUHZhNzYx",
             },
-            {
-                label: "English",
-                href: "https://t.me/+DUnjwPKyUHZhNzYx",
-            },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
         href: "https://twitter.com/falopafinance",
-    },
-    {
-        label: "Telegram",
-        icon: "TelegramIcon",
-        href: "https://www.reddit.com/r/GooseFinanceofficial",
     },
 ];
 var MENU_HEIGHT = 64;
