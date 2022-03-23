@@ -117,21 +117,22 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
+    href: "https://t.me/+DUnjwPKyUHZhNzYx",
     items: [
       {
         label: "English",
-        href: "https://t.me/cashcowprotocol",
+        href: "https://t.me/+DUnjwPKyUHZhNzYx",
       },
       {
         label: "English",
-        href: "https://t.me/cashcowprotocol",
+        href: "https://t.me/+DUnjwPKyUHZhNzYx",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/CashCowProtocol",
+    href: "https://twitter.com/falopafinance",
   },
   {
     label: "Telegram",
